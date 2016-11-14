@@ -12,10 +12,10 @@
 
 $EM_CONF[$_EXTKEY] = [
     'title' => 'Formhandler',
-    'description' => 'The swiss army knife for all kinds of mailforms, completely new written using the MVC concept. Result: Flexibility, Flexibility, Flexibility  :-).',
+    'description' => 'Original EXT:formhandler has been abandonned, so no further TER updates have to be expected, 2.4.0 is the last official version. This a fork of https://github.com/reinhardfuehricht/typo3-formhandler. This fork can be found here: https://github.com/artur2000/typo3-formhandler. The swiss army knife for all kinds of mailforms, completely new written using the MVC concept. Result: Flexibility, Flexibility, Flexibility  :-).',
     'category' => 'plugin',
     'shy' => 0,
-    'version' => '2.4.0',
+    'version' => '99.2.4.0',
     'state' => 'stable',
     'dependencies' => '',
     'conflicts' => '',
